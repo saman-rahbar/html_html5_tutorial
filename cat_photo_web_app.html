@@ -89,3 +89,18 @@
 
 <!-- You can make the input field required by passing the "required attribute to the "input" element:-->
 <input type="text" placeholder="Enter your cat photo URL:" required>
+
+
+<!-- Instead of having a text option we can have a radio button with different lables and let the user
+    decide the value he/she wants to choose-->
+<label for = "indoor">
+    <input id = "indoor" type="radio" name = "indoor-outdoor"> Indoor
+</label>
+<!-- It's always a good practice to use "for" keybord to specify the id that specific radio label is targetting
+    id = the id we want to target
+    type = type of option we want to target
+    name= name of the radio option
+    tag= the name that will show up infront of that radio option-->
+<label for = "outdoor">
+    <input id = "outdoor" type="radio" name = "indoor-outdoor"> Outdoor
+</label>
