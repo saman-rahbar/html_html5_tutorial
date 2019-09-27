@@ -1,0 +1,14 @@
+Basics of CSS 
+
+- Cascading Style Sheets (CSS) tells the browser to display the text and other content that you write in HTML.
+
+- CSS Allows you to control:
+	- Color
+	- Fonts
+	- Positioning
+ 	- Spacing
+	- Sizing
+	- Decorating
+	- Transitions
+
+
